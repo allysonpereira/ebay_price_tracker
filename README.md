@@ -21,7 +21,7 @@ The script is organized into the following sections:
 
 1. Import Libraries: Import necessary Python libraries, including BeautifulSoup, requests, numpy, csv, and datetime.
 
-2.eBay Search URL: Define the eBay search URL for M1 MacBook Air listings.
+2. eBay Search URL: Define the eBay search URL for M1 MacBook Air listings.
 
 3. Functions:
 
