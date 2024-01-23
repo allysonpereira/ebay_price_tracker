@@ -7,7 +7,7 @@ This Python script enables users to track and analyze the average prices of M1 M
 ## Prerequisites
 Before running the script, make sure you have the required libraries installed. You can install them using the following command:
 
-#bash
+'''bash
 pip install beautifulsoup4 requests numpy
 
 ## Usage
