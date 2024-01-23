@@ -9,7 +9,7 @@ Before running the script, make sure you have the required libraries installed. 
 
 ```bash
 pip install beautifulsoup4 requests numpy
-
+```
 ## Usage
 1. Open the script in a Python environment (e.g., Jupyter Notebook, VSCode).
 2. Run the script, and it will fetch the eBay search results for M1 MacBook Air listings, process the prices, and display the current average price without outliers.
